@@ -24,5 +24,4 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10)
