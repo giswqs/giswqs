@@ -1,0 +1,18 @@
+name: Lastest Hashnode Blog Post
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Hashnode blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HASHNODE"
+          commit_message: "Updated readme with the latest Hashnode Blog data"
+          feed_list: "https://blog.gishub.org/rss.xml"
