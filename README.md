@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Earth Engine Tutorial #32: Machine Learning with Earth Engine - Supervised Classification](https://blog.gishub.org/earth-engine-tutorial-32-machine-learning-with-earth-engine-supervised-classification-ckdpvtjc2025al9s191v743b3)
 - [Earth Engine Tutorial #31: Machine Learning with Earth Engine - Unsupervised Classification](https://blog.gishub.org/earth-engine-tutorial-31-machine-learning-with-earth-engine-unsupervised-classification-ckdk80i8602wlz2s1hsx15ve0)
 - [Earth Engine Tutorial #30: How to get image properties and descriptive statistics](https://blog.gishub.org/earth-engine-tutorial-30-how-to-get-image-properties-and-descriptive-statistics-ckdiwn50f00q2zzs15w6pf5rx)
 - [Earth Engine Tutorial #29: How to use pydeck for rendering Earth Engine data](https://blog.gishub.org/earth-engine-tutorial-29-how-to-use-pydeck-for-rendering-earth-engine-data-ckdeh7fxa029yyss1392j3ya6)
 - [Earth Engine Video Tutorials](https://blog.gishub.org/earth-engine-video-tutorials-ckdcgrirj03dp59s1edts8jbv)
-- [Tutorial for the lidar Python package](https://blog.gishub.org/tutorial-for-the-lidar-python-package-ckdbwi1bl02lh59s10pwc7jh3)
 <!-- HASHNODE:END -->
 ---
 
