@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
+- [WhiteboxTools v1.4.0 released](https://blog.gishub.org/whiteboxtools-v140-released-ckeskrpo70017kls12zclekm4)
 - [New website for geemap user guide and API reference](https://blog.gishub.org/new-website-for-geemap-user-guide-and-api-reference-ckebds3f601auhes1dy6kexdc)
 - [Earth Engine Tutorial #34: Interactive extraction of pixel values and interactive region reduction](https://blog.gishub.org/earth-engine-tutorial-34-interactive-extraction-of-pixel-values-and-interactive-region-reduction-ckdygzvjz060gjas1b5mx2zmj)
 - [Earth Engine Tutorial #33: Performing Accuracy Assessment for Image Classification](https://blog.gishub.org/earth-engine-tutorial-33-performing-accuracy-assessment-for-image-classification-ckdsqgehr005cues160gbaa5r)
 - [Earth Engine Tutorial #32: Machine Learning with Earth Engine - Supervised Classification](https://blog.gishub.org/earth-engine-tutorial-32-machine-learning-with-earth-engine-supervised-classification-ckdpvtjc2025al9s191v743b3)
-- [Earth Engine Tutorial #31: Machine Learning with Earth Engine - Unsupervised Classification](https://blog.gishub.org/earth-engine-tutorial-31-machine-learning-with-earth-engine-unsupervised-classification-ckdk80i8602wlz2s1hsx15ve0)
 <!-- HASHNODE:END -->
 ---
 
