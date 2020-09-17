@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
-- [Earth Engine Tutorial #35: How to use geemap and Earth Engine in Google Colab](https://blog.gishub.org/earth-engine-tutorial-35-how-to-use-geemap-and-earth-engine-in-google-colab-ckf5c403a02xnors1e5ie3i79)
-- [Introduction to geemap and the Earth Engine Python API](https://blog.gishub.org/introduction-to-geemap-and-the-earth-engine-python-api-ckevqvo7t01w9nzs1cqwm40sq)
-- [WhiteboxTools v1.4.0 released](https://blog.gishub.org/whiteboxtools-v140-released-ckeskrpo70017kls12zclekm4)
-- [New website for geemap user guide and API reference](https://blog.gishub.org/new-website-for-geemap-user-guide-and-api-reference-ckebds3f601auhes1dy6kexdc)
-- [Earth Engine Tutorial #34: Interactive extraction of pixel values and interactive region reduction](https://blog.gishub.org/earth-engine-tutorial-34-interactive-extraction-of-pixel-values-and-interactive-region-reduction-ckdygzvjz060gjas1b5mx2zmj)
+- [Earth Engine Tutorial #36: How to find out the greenest day of the year for each location](https://blog.gishub.org/earth-engine-tutorial-36-how-to-find-out-the-greenest-day-of-the-year-for-each-location)
+- [Earth Engine Tutorial #35: How to use geemap and Earth Engine in Google Colab](https://blog.gishub.org/earth-engine-tutorial-35-how-to-use-geemap-and-earth-engine-in-google-colab)
+- [Introduction to geemap and the Earth Engine Python API](https://blog.gishub.org/introduction-to-geemap-and-the-earth-engine-python-api)
+- [WhiteboxTools v1.4.0 released](https://blog.gishub.org/whiteboxtools-v140-released)
+- [New website for geemap user guide and API reference](https://blog.gishub.org/new-website-for-geemap-user-guide-and-api-reference)
 <!-- HASHNODE:END -->
 ---
 
