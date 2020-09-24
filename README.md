@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Earth Engine Tutorial #37: How to use Earth Engine with pydeck for 3D terrain visualization](https://blog.gishub.org/earth-engine-tutorial-37-how-to-use-earth-engine-with-pydeck-for-3d-terrain-visualization)
+- [Earth Engine App for creating Landsat timelapse animations](https://blog.gishub.org/earth-engine-app-for-creating-landsat-timelapse-animations)
+- [Slack channels for geemap and Earth Engine](https://blog.gishub.org/slack-channels-for-geemap-and-earth-engine)
 - [Earth Engine Tutorial #36: How to find out the greenest day of the year for each location](https://blog.gishub.org/earth-engine-tutorial-36-how-to-find-out-the-greenest-day-of-the-year-for-each-location)
 - [Earth Engine Tutorial #35: How to use geemap and Earth Engine in Google Colab](https://blog.gishub.org/earth-engine-tutorial-35-how-to-use-geemap-and-earth-engine-in-google-colab)
-- [Introduction to geemap and the Earth Engine Python API](https://blog.gishub.org/introduction-to-geemap-and-the-earth-engine-python-api)
-- [WhiteboxTools v1.4.0 released](https://blog.gishub.org/whiteboxtools-v140-released)
-- [New website for geemap user guide and API reference](https://blog.gishub.org/new-website-for-geemap-user-guide-and-api-reference)
 <!-- HASHNODE:END -->
 ---
 
