@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
-- [Earth Engine Tutorial #37: How to use Earth Engine with pydeck for 3D terrain visualization](https://blog.gishub.org/earth-engine-tutorial-37-how-to-use-earth-engine-with-pydeck-for-3d-terrain-visualization)
-- [Earth Engine App for creating Landsat timelapse animations](https://blog.gishub.org/earth-engine-app-for-creating-landsat-timelapse-animations)
-- [Slack channels for geemap and Earth Engine](https://blog.gishub.org/slack-channels-for-geemap-and-earth-engine)
-- [Earth Engine Tutorial #36: How to find out the greenest day of the year for each location](https://blog.gishub.org/earth-engine-tutorial-36-how-to-find-out-the-greenest-day-of-the-year-for-each-location)
-- [Earth Engine Tutorial #35: How to use geemap and Earth Engine in Google Colab](https://blog.gishub.org/earth-engine-tutorial-35-how-to-use-geemap-and-earth-engine-in-google-colab)
+- [Geo for Good Summit 2020 Public Sector Meetup - Introduction to geemap](https://blog.gishub.org/geo-for-good-summit-2020-public-sector-meetup-introduction-to-geemap)
+- [JupyterCon 2020 - How Jupyter and geemap enable interactive mapping of large-scale geospatial datasets](https://blog.gishub.org/jupytercon-2020-how-jupyter-and-geemap-enable-interactive-mapping-of-large-scale-geospatial-datasets)
+- [GEE Tutorial #39 - How to create Landsat timelapse animations without coding](https://blog.gishub.org/gee-tutorial-39-how-to-create-landsat-timelapse-animations-without-coding)
+- [GEE Tutorial #38 - How to use Cloud Optimized GeoTIFF with Earth Engine](https://blog.gishub.org/gee-tutorial-38-how-to-use-cloud-optimized-geotiff-with-earth-engine)
+- [How to create timelapse animations of spectral indices (e.g., NDWI, NDVI)](https://blog.gishub.org/how-to-create-timelapse-animations-of-spectral-indices-eg-ndwi-ndvi)
 <!-- HASHNODE:END -->
 ---
 
