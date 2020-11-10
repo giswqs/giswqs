@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
+- [GEE Tutorial #41 - How to develop an Earth Engine app for mapping surface water dynamics](https://blog.gishub.org/gee-tutorial-41-how-to-develop-an-earth-engine-app-for-mapping-surface-water-dynamics)
+- [GEE Tutorial #40 - How to add interactive widgets to the map](https://blog.gishub.org/gee-tutorial-40-how-to-add-interactive-widgets-to-the-map)
 - [Geo for Good Summit 2020 Public Sector Meetup - Introduction to geemap](https://blog.gishub.org/geo-for-good-summit-2020-public-sector-meetup-introduction-to-geemap)
 - [JupyterCon 2020 - How Jupyter and geemap enable interactive mapping of large-scale geospatial datasets](https://blog.gishub.org/jupytercon-2020-how-jupyter-and-geemap-enable-interactive-mapping-of-large-scale-geospatial-datasets)
 - [GEE Tutorial #39 - How to create Landsat timelapse animations without coding](https://blog.gishub.org/gee-tutorial-39-how-to-create-landsat-timelapse-animations-without-coding)
-- [GEE Tutorial #38 - How to use Cloud Optimized GeoTIFF with Earth Engine](https://blog.gishub.org/gee-tutorial-38-how-to-use-cloud-optimized-geotiff-with-earth-engine)
-- [How to create timelapse animations of spectral indices (e.g., NDWI, NDVI)](https://blog.gishub.org/how-to-create-timelapse-animations-of-spectral-indices-eg-ndwi-ndvi)
 <!-- HASHNODE:END -->
 ---
 
