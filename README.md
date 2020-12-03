@@ -24,11 +24,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ---
 ### Latest Blog Posts
 <!-- HASHNODE:START -->
+- [eefolium - A Python package for using Earth Engine with Google Colab](https://blog.gishub.org/eefolium-a-python-package-for-using-earth-engine-with-google-colab)
 - [GEE Tutorial #43 - How to extract pixel values from an Earth Engine image using a point shapefile](https://blog.gishub.org/gee-tutorial-43-how-to-extract-pixel-values-from-an-earth-engine-image-using-a-point-shapefile)
 - [The geemap website can now render jupyter notebooks](https://blog.gishub.org/the-geemap-website-can-now-render-jupyter-notebooks)
 - [GEE Tutorial #42 - How to upload data to Earth Engine Apps using ipywidgets](https://blog.gishub.org/gee-tutorial-42-how-to-upload-data-to-earth-engine-apps-using-ipywidgets)
 - [GEE Tutorial #41 - How to develop an Earth Engine app for mapping surface water dynamics](https://blog.gishub.org/gee-tutorial-41-how-to-develop-an-earth-engine-app-for-mapping-surface-water-dynamics)
-- [GEE Tutorial #40 - How to add interactive widgets to the map](https://blog.gishub.org/gee-tutorial-40-how-to-add-interactive-widgets-to-the-map)
 <!-- HASHNODE:END -->
 ---
 
