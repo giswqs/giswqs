@@ -27,7 +27,6 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-
 - [eefolium - A Python package for using Earth Engine with Google Colab](https://blog.gishub.org/eefolium-a-python-package-for-using-earth-engine-with-google-colab)
 - [GEE Tutorial #43 - How to extract pixel values from an Earth Engine image using a point shapefile](https://blog.gishub.org/gee-tutorial-43-how-to-extract-pixel-values-from-an-earth-engine-image-using-a-point-shapefile)
 - [The geemap website can now render jupyter notebooks](https://blog.gishub.org/the-geemap-website-can-now-render-jupyter-notebooks)
