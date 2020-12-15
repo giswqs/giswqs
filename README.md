@@ -29,7 +29,7 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 <!-- HASHNODE:START -->
 - [GEE Tutorial #46 - How to use locally trained machine learning models with GEE](https://blog.gishub.org/gee-tutorial-46-how-to-use-locally-trained-machine-learning-models-with-gee)
 - [GEE Tutorial #45 - How to create a virtual mosaic of Cloud Optimized GeoTIFFs (COG)](https://blog.gishub.org/gee-tutorial-45-how-to-create-a-virtual-mosaic-of-cloud-optimized-geotiffs-cog)
-- [GEE Tutorial #44 - How to load a virtual mosaic of Cloud Optimized GeoTIFFs (COG)](https://blog.gishub.org/gee-tutorial-44-how-to-load-a-virtual-mosaic-of-cloud-optimized-geotiffs-cog)
+- [GEE Tutorial #44 - How to use Cloud Optimized GeoTIFF (COG) and SpatioTemporal Asset Catalog (STAC)](https://blog.gishub.org/gee-tutorial-44-how-to-use-cloud-optimized-geotiff-cog-and-spatiotemporal-asset-catalog-stac)
 - [eefolium - A Python package for using Earth Engine with Google Colab](https://blog.gishub.org/eefolium-a-python-package-for-using-earth-engine-with-google-colab)
 - [GEE Tutorial #43 - How to extract pixel values from an Earth Engine image using a point shapefile](https://blog.gishub.org/gee-tutorial-43-how-to-extract-pixel-values-from-an-earth-engine-image-using-a-point-shapefile)
 <!-- HASHNODE:END -->
