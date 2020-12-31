@@ -27,11 +27,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
+- [GEE Tutorial #50 - How to create publication quality maps using cartoee](https://blog.gishub.org/gee-tutorial-50-how-to-create-publication-quality-maps-using-cartoee)
 - [GEE Tutorial #49 - How to add a colorbar to the map](https://blog.gishub.org/gee-tutorial-49-how-to-add-a-colorbar-to-the-map)
 - [GEE Tutorial #48 - How to add a draggable legend to folium maps](https://blog.gishub.org/gee-tutorial-48-how-to-add-a-draggable-legend-to-folium-maps)
 - [GEE Tutorial #47 - How to download image thumbnails from GEE](https://blog.gishub.org/gee-tutorial-47-how-to-download-image-thumbnails-from-gee)
 - [GEE Tutorial #46 - How to use locally trained machine learning models with GEE](https://blog.gishub.org/gee-tutorial-46-how-to-use-locally-trained-machine-learning-models-with-gee)
-- [GEE Tutorial #45 - How to create a virtual mosaic of Cloud Optimized GeoTIFFs (COG)](https://blog.gishub.org/gee-tutorial-45-how-to-create-a-virtual-mosaic-of-cloud-optimized-geotiffs-cog)
 <!-- HASHNODE:END -->
 
 ---
