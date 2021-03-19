@@ -27,11 +27,11 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
+- [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
+- [The MapScaping Podcast - Introducing Google Earth Engine‬](https://blog.gishub.org/the-mapscaping-podcast-introducing-google-earth-engine)
 - [Visual Studio Code Tips & Tricks](https://blog.gishub.org/visual-studio-code-tips-and-tricks)
 - [Google Colab Tips and Tricks](https://blog.gishub.org/google-colab-tips-and-tricks)
 - [GEE Tutorial #52 - How to create timelapse animations with custom projection, scale bar, and north arrow](https://blog.gishub.org/gee-tutorial-52-how-to-create-timelapse-animations-with-custom-projection-scale-bar-and-north-arrow)
-- [GEE Tutorial #51 - How to create publication quality maps with customized projections](https://blog.gishub.org/gee-tutorial-51-how-to-create-publication-quality-maps-with-customized-projections)
-- [GEE Tutorial #50 - How to create publication quality maps using cartoee](https://blog.gishub.org/gee-tutorial-50-how-to-create-publication-quality-maps-using-cartoee)
 <!-- HASHNODE:END -->
 
 ---
