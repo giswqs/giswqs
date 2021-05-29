@@ -18,7 +18,7 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 
 - **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
 - **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
-- **Python packages:** [geemap](https://github.com/giswqs/geemap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
+- **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
 - **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
 - **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
