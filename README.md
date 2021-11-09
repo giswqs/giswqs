@@ -27,7 +27,7 @@ I am an Assistant Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [A streamlit app for creating timelapse of annual Landsat imagery (1984-2021)](https://blog.gishub.org/a-streamlit-app-for-creating-timelapse-of-annual-landsat-imagery-1984-2021)
+- [A streamlit app for creating timelapse of annual Landsat imagery &lpar;1984-2021&rpar;](https://blog.gishub.org/a-streamlit-app-for-creating-timelapse-of-annual-landsat-imagery-1984-2021)
 - [The ArcGIS Toolbox for WhiteboxTools v2.0 released](https://blog.gishub.org/the-arcgis-toolbox-for-whiteboxtools-v20-released)
 - [GEE and geemap workshop at GeoPython Conference](https://blog.gishub.org/gee-and-geemap-workshop-at-geopython-conference)
 - [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
