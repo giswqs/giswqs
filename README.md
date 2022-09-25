@@ -10,7 +10,7 @@
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
 
-I am an Assistant Professor in the [Department of Geography](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my [personal website](https://wetlands.io/) and [research blog](https://blog.gishub.org/).
+I am an Assistant Professor in the [Department of Geography](https://geography.utk.edu/about-us/faculty/dr-qiusheng-wu/) at the [University of Tennessee, Knoxville](https://www.utk.edu/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., Google Earth Engine, Amazon Web Services) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my [personal website](https://wetlands.io/) and [research blog](https://blog.gishub.org/).
 
 ---
 
