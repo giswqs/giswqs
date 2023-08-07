@@ -27,11 +27,11 @@ I am an Associate Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
+- [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
 - [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
 - [A streamlit app for creating timelapse of annual Landsat imagery &lpar;1984-2021&rpar;](https://blog.gishub.org/a-streamlit-app-for-creating-timelapse-of-annual-landsat-imagery-1984-2021)
 - [The ArcGIS Toolbox for WhiteboxTools v2.0 released](https://blog.gishub.org/the-arcgis-toolbox-for-whiteboxtools-v20-released)
 - [GEE and geemap workshop at GeoPython Conference](https://blog.gishub.org/gee-and-geemap-workshop-at-geopython-conference)
-- [How to publish a Python package on conda-forge](https://blog.gishub.org/how-to-publish-a-python-package-on-conda-forge)
 <!-- HASHNODE:END -->
 
 ---
