@@ -27,7 +27,7 @@ I am an Associate Professor in the [Department of Geography](https://geography.u
 ### Latest Blog Posts
 
 <!-- HASHNODE:START -->
-- [Segment-geospatial presentation as SERVIR](https://blog.gishub.org/segment-geospatial-presentation-as-servir)
+- [Segment-geospatial presentation at SERVIR](https://blog.gishub.org/segment-geospatial-presentation-at-servir)
 - [Segmenting remote sensing imagery with box prompts](https://blog.gishub.org/segmenting-remote-sensing-imagery-with-box-prompts)
 - [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
 - [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
