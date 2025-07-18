@@ -6,7 +6,7 @@
 [![UTK Badge](https://img.shields.io/badge/UTK-Faculty-orange)](https://faculty.utk.edu/Qiusheng.Wu)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@giswqs)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giswqs)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://tiny.utk.edu/wu-cv)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/giswqs)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
 
