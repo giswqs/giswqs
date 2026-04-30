@@ -12,7 +12,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giswqs.giswqs)
 
 I’m an **Associate Professor** and **Director of Graduate Studies** in the Department of Geography & Sustainability at the **University of Tennessee, Knoxville**, and an **Amazon Scholar**.
-My work focuses on **geospatial data science**, **open-source software**, and **cloud-based geospatial computing** for environmental monitoring (especially surface water and wetland dynamics).
+My work focuses on **geospatial data science**, **GeoAI**, **open-source software development**, and **cloud-based geospatial computing** for environmental monitoring (especially surface water and wetland dynamics).
 
 I build and maintain open-source tools such as **geemap**, **leafmap**, **segment-geospatial**, and **geoai** to make geospatial analysis and visualization more accessible.
 
@@ -24,6 +24,7 @@ I build and maintain open-source tools such as **geemap**, **leafmap**, **segmen
 
 - [anymap](https://github.com/opengeos/anymap)
 - [geemap](https://github.com/gee-community/geemap)
+- [GeoAgent](https://github.com/opengeos/GeoAgent)
 - [geoai](https://github.com/opengeos/geoai)
 - [geospatial](https://github.com/opengeos/geospatial)
 - [geospatial-ml](https://github.com/opengeos/geospatial-ml)
@@ -66,9 +67,11 @@ I build and maintain open-source tools such as **geemap**, **leafmap**, **segmen
 - [NASA Earthdata](https://github.com/opengeos/qgis-nasa-earthdata-plugin)
 - [NASA OPERA](https://github.com/opengeos/qgis-nasa-opera-plugin)
 - [Notebook](https://github.com/opengeos/qgis-notebook-plugin)
+- [OpenGeoAgent](https://geoagent.gishub.org/qgis-plugin)
 - [Plugin Template](https://github.com/opengeos/qgis-plugin-template)
 - [SamGeo](https://github.com/opengeos/qgis-samgeo-plugin)
 - [STAC](https://github.com/opengeos/qgis-stac-plugin)
+- [Terminal](https://github.com/opengeos/qgis-terminal-plugin)
 - [Terrascope](https://github.com/opengeos/qgis-terrascope-plugin)
 - [Timelapse](https://github.com/opengeos/qgis-timelapse-plugin)
 - [Whitebox AI Agent](https://github.com/opengeos/qgis-whitebox-agent)
@@ -82,8 +85,8 @@ I build and maintain open-source tools such as **geemap**, **leafmap**, **segmen
 - [maplibre-gl-html-widget](https://github.com/opengeos/maplibre-gl-html-widget)
 - [maplibre-gl-layer-control](https://github.com/opengeos/maplibre-gl-layer-control)
 - [maplibre-gl-layer-manager](https://github.com/opengeos/maplibre-gl-layer-manager)
-- [maplibre-gl-noaa-lidar](https://github.com/opengeos/maplibre-gl-noaa-lidar)
 - [maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar)
+- [maplibre-gl-noaa-lidar](https://github.com/opengeos/maplibre-gl-noaa-lidar)
 - [maplibre-gl-planetary-computer](https://github.com/opengeos/maplibre-gl-planetary-computer)
 - [maplibre-gl-plugin-template](https://github.com/opengeos/maplibre-gl-plugin-template)
 - [maplibre-gl-splat](https://github.com/opengeos/maplibre-gl-splat)
@@ -118,17 +121,6 @@ I build and maintain open-source tools such as **geemap**, **leafmap**, **segmen
 
 - [Awesome-GEE](https://github.com/opengeos/Awesome-GEE)
 - [python-geospatial](https://github.com/opengeos/python-geospatial)
-
----
-
-## 📝 Latest Blog Posts
-<!-- HASHNODE:START -->
-- [Visualizing satellite image time series interactively](https://blog.gishub.org/visualizing-satellite-image-time-series-interactively)
-- [Segment-geospatial presentation at SERVIR](https://blog.gishub.org/segment-geospatial-presentation-at-servir)
-- [Segmenting remote sensing imagery with box prompts](https://blog.gishub.org/segmenting-remote-sensing-imagery-with-box-prompts)
-- [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
-- [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
-<!-- HASHNODE:END -->
 
 ---
 
